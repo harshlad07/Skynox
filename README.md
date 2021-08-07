@@ -1,2 +1,2 @@
 # Slynox
-Slynox
+Skynox
